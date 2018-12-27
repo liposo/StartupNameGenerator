@@ -1,6 +1,6 @@
 # Startup name Generator
 
-![](media/01.gif)
+<img src="media/01.gif" width="250" height="480">
 
 ## Getting Started
 [Write Your First Flutter App Part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1)
